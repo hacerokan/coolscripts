@@ -1,2 +1,2 @@
 # coolscripts
-Easy
+easy automation, might come in handy.
